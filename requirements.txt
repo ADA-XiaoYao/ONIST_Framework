@@ -1,0 +1,11 @@
+# ONIST_Framework Python 依赖
+# 仅为示例，请根据实际项目需求进行调整
+
+requests
+beautifulsoup4
+lxml
+scapy
+dns-python
+python-whois
+pyyaml
+colorama
