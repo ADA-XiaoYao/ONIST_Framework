@@ -1,0 +1,34 @@
+# 操作系统和编辑器文件
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python 相关
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.egg-info/
+
+# Go 相关
+*.exe
+*.out
+
+# 日志和临时文件
+*.log
+*.tmp
+
+# 敏感信息
+config.json
+*.key
+*.pem
+
+# 依赖管理
+vendor/
+
+# CI/CD 临时文件
+.github/workflows/*.tmp
